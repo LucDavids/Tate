@@ -1,0 +1,22 @@
+<% include header %>
+<div id="blacknews">
+<h1><img id="pf-stamp" src="/img/pf-stamp.png"></h1>
+</div>
+<h2 id="categoriestitle"> <%- categorieen[id] %></h2>
+
+  <% for (var i = 0; i < items.length; i++) { %>
+    <% if (items[i].categorieen.indexOf(categorieen[id]) !== -1) { %>
+      <section>
+          <h2>
+            <a id="categoriesclicklink" href=/items/<%- items[i].id %>><%- items[i].titel %></a>
+          </h2>
+          <img  id="nieuwspic" src="/img/<%- items[i].afbeeldings %>" alt="<%- items[i].titel %>">
+          <p><%- items[i].datum %></p>
+          <p>
+            <%- items[i].samenvatting %>
+          </p>
+      </section>
+    <% } %>
+  <% } %>
+
+<% include footer %>

@@ -1,0 +1,41 @@
+<% include header %>
+<div id="bovenbalk">
+<img id="pf-logo" src="/img/TATE-logo.png">
+
+<nav>
+  <% for (var i = 0; i < categorieen.length; i++) { %>
+    <a id="categorieen" href="/categorieen/<%- i %>"><%- categorieen[i] %></a>
+  <% } %>
+</nav>
+
+</div>
+<div id="informations"></div>
+  <% var teller = 1; %>
+  <% nieuws.forEach(function(item){ %>
+    <section>
+        <img id="nieuwspic" src="/img/<%- item.afbeeldings %>" alt="<%- item.titel %>">
+        <h2 id="itemtitel">
+          <a href=/items/<%- item.id %>><%- item.titel %></a>
+        </h2>
+        <p id="datum"><%- item.datum %></p>
+        <p id="auteur">
+            <%- item.auteur %>
+          </p>
+        <p id="samenvatting">
+          <%- item.samenvatting %>
+        </p>
+
+    </section>
+    <% teller++;}); %>
+<div id="bottom">
+<img id="bottomlogo" src="/img/TATE-logo.png">
+<br>
+<a id="herokulink"href="https://murmuring-sea-55367.herokuapp.com">Heroku site</a>
+<p id="disclaimer">© 2017 Condé Nast. All rights reserved. Use of this site constitutes acceptance of our User Agreement and Privacy Policy. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with prior written permission of Condé Nast. CNMN Collection
+</p>
+
+
+
+</div>
+
+<% include footer %>

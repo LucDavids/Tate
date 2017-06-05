@@ -1,0 +1,89 @@
+{
+    "nieuws":
+    [
+        {
+            "titel": "Wolfgang Tillmans: 2017",
+            "id": 209,
+            "datum": "Untill 11 june 2017",
+            "auteur": "BY: Luc Davids",
+            "categorieen": ["PHOTOGRAPHY"],
+            "samenvatting": "From intimate still-lifes and portraits, to images that address vital political issues, explore the photographs of this groundbreaking artist →",
+            "body": "<p>This is Wolfgang Tillmans’s first ever exhibition at Tate Modern and brings together works in an exciting variety of media – photographs, of course, but also video, digital slide projections, publications, curatorial projects and recorded music – all staged by the artist in characteristically innovative style..</p>",
+            "afbeeldingl": "Tillmans.png",
+            "afbeeldings": "Tillmans.png"
+        },
+        {
+            "titel": "Alberto Giacometti",
+            "id": 210,
+            "datum": "1955",
+            "auteur": "Alberto Giacometti",
+            "categorieen": ["SURREALISM"],
+            "samenvatting": "Tate Modern presents the UK’s first major retrospective of Alberto Giacometti for 20 years →",
+            "body": "<p>Frank Ocean has canceled his performance at Primavera Sound next weekend. The stated reason for the cancellation, once again, is due to “production delays beyond his control,” the festival said in a statement. “The artist has apologised and has reiterated his wish to come to Barcelona soon.” Refunds are being offered to anyone holding a day ticket. He previously canceled his headlining sets at Sasquatch! (where he was replaced by LCD Soundsystem) and Hangout (where he was replaced by Phoenix). Frank’s upcoming performances were set to be his first since the release of last year’s comeback albums, Blonde and Endless. </p>",
+            "afbeeldingl": "Giacometti.jpg",
+            "afbeeldings": "Giacometti.jpg"
+        },
+        {
+            "titel": "Sahara Circle by Richard Long",
+            "id": 211,
+            "datum": "1988",
+            "auteur": "Richard Long",
+            "categorieen": ["LAND ART","ABSTRACT"],
+            "samenvatting": "Land art was part of the wider conceptual art movement in the 1960s and 1970s.Read all about Richard Long →",
+            "body": "<p>“Land art was part of the wider conceptual art movement in the 1960s and 1970s. The most famous land art work is Robert Smithson’s Spiral Jetty of 1970, an earthwork built out into the Great Salt Lake in the USA. Though some artists such as Smithson used mechanical earth-moving equipment to make their artworks, other artists made minimal and temporary interventions in the landscape such as Richard Long who simply walked up and down until he had made a mark in the earth.</p>",
+            "afbeeldingl": "Sahara-circle-richard-long.jpg",
+            "afbeeldings": "Sahara-circle-richard-long.jpg"
+        },{
+            "titel": "City by Michael Heizer",
+            "id": 212,
+            "datum": "1972",
+            "auteur": "Michael Heizer",
+            "categorieen": ["LAND ART","ABSTRACT"],
+            "samenvatting": "City is a piece of earth art located in Garden Valley.→",
+            "body": "<p>OLike Heizer's previous Double Negative (1969), City is designed and executed on a massive scale. Covering a space approximately one and a quarter miles long and more than a quarter of a mile wide (2 km by 0.4 km, roughly the scale of the National Mall), City is one of the largest sculptures ever created. Using earth, rocks, sand and concrete as building materials and assembled with heavy machinery, the work comprises five phases, each consisting of a number of structures referred to as complexes, with some of the structures reaching a height of eighty feet.</p>",
+            "afbeeldingl": "michael-heizer.jpg",
+            "afbeeldings": "michael-heizer.jpg"
+        },{
+            "titel": "Sitting Girl by Ernst Ludwig Kirchner",
+            "id": 213,
+            "datum": "1910",
+            "auteur": "Ernst Ludwig Kirchner",
+            "categorieen": ["EXPRESSIONISM"],
+            "samenvatting": "Ernst Ludwig Kirchner (6 May 1880 – 15 June 1938) was a German expressionist.→",
+            "body": "<p>Kirchner continued to work through 1919 and 1920 as his health also rapidly improved.[3] His reputation grew with several exhibitions in Germany and Switzerland in 1920.[2] He was provided with many subjects to paint as he came to know the farmers of the area, who were amazed by Kirchner's gramophone.[3] Kirchner writes of the people of Davos.</p>",
+            "afbeeldingl": "ELK.jpg",
+            "afbeeldings": "ELK.jpg"
+        },{
+            "titel": "Prince by Andy Warhol",
+            "id": 214,
+            "datum": "1984",
+            "auteur": "Andy Warhol",
+            "categorieen": ["POP ART"],
+            "samenvatting": "Prince is a 1984 painting by American artist Andy Warhol. It is one of a series of silkscreen portraits of celebrities and prominent figures created by Warhol throughout his career..→",
+            "body": "<p>As was common with many of Warhol's celebrity portraits, Prince uses a publicity photograph of the singer as its source material. The painting was made using silkscreen ink and acrylic polymer paint on canvas, an artistic technique popularised by Warhol and synonymous with the artist from the 1960s onwards.</p>",
+            "afbeeldingl": "Prince.jpg",
+            "afbeeldings": "Prince.jpg"
+        },{
+            "titel": "Blade of Light for Alexander MqQueen by Nick Knight",
+            "id": 215,
+            "datum": "2004",
+            "auteur": "Nick Knight",
+            "categorieen": ["PHOTOGRAPHY"],
+            "samenvatting": "The celebrated fashion photographer presents his collaborations with the late fashion designer.→",
+            "body": "<p>Shown together for the first time, this selection of Nick Knight's elaborate and fantastical photographs, translate McQueen’s vision of fashion’s malleability. From his portrait of model Devon Aoki transformed into a cyborg geisha for the cover of Visionaire 20 (1997) to the Dazed & Confused editorial that included disabled models, Knight deciphered McQueen's challenge of our prescribed aesthetics, into glorious realities.</p>",
+            "afbeeldingl": "nickknight.jpg",
+            "afbeeldings": "nickknight.jpg"
+        },
+        {
+            "titel": "Six Crimee by Jean-Michel Basquiat",
+            "id": 216,
+            "datum": "1982",
+            "auteur": "Jean-Michel Basquiat",
+            "categorieen": ["EXPRESSIONISM"],
+            "samenvatting": "This photograph was taken by the Finnish-born British photographer Sirkka-Liisa Konttinen in 1969. →",
+            "body": "<p>Not known to paint rainbows and butterflies, Basquiat forced people to see the inequality and struggles that befall us. Basquiat once said, “I do not think about art when I work, I think about life.” If that’s true this tumultuous painting doesn’t bode well for his biopic. That's not to imply he was faking the tortured artist thing. His angst is understandable considering his upbringing.</p>",
+            "afbeeldingl": "JMB.jpg",
+            "afbeeldings": "JMB.jpg"
+        }
+    ]
+}
